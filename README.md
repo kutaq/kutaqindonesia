@@ -1,2 +1,3 @@
 # kutaqindonesia
-berisi script tutorial yang ada pada https://kutaq.com
+berisi script tutorial yang ada pada 
+<a href="https://kutaq.com">Kutaq Indonesia</a>
