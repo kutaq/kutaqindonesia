@@ -1,0 +1,6 @@
+<script type='text/javascript'>
+//<![CDATA[
+// Lazy Load Mgid
+var lazymgid2=!1;window.addEventListener('scroll',function(){(0!=document.documentElement.scrollTop&&!1===lazymgid2||0!=document.body.scrollTop&&!1===lazymgid2)&&(!function(){var e=document.createElement('script');e.type='text/javascript',e.async=!0,e.src='https://jsc.mgid.com/domainanda2.com.123456.js';var a=document.getElementsByTagName('script')[0];a.parentNode.insertBefore(e,a)}(),lazymgid2=!0)},!0);
+//]]>
+</script>
